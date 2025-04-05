@@ -1,3 +1,3 @@
 # Number-Guessing-Game-Simple-Code
 
-Code made in [roadmap.sh/projects/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
+Code made based on the [roadmap.sh/projects/number-guessing-game project](https://roadmap.sh/projects/number-guessing-game)
